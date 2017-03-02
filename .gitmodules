@@ -1,0 +1,6 @@
+[submodule "prosperity-pad"]
+	path = prosperity-pad
+	url = https://github.com/daveil/prosperity-pad.git
+[submodule "rec-ol"]
+	path = rec-ol
+	url = https://github.com/daveil/rec-ol.git
