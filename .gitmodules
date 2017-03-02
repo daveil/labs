@@ -4,3 +4,6 @@
 [submodule "rec-ol"]
 	path = rec-ol
 	url = https://github.com/daveil/rec-ol.git
+[submodule "glass"]
+	path = glass
+	url = https://github.com/daveil/glass.git
